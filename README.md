@@ -1,2 +1,2 @@
 # Text Visualization
-![alt text](https://github.com/wisnupr/text-visualization/row-data/text-visual.PNG)
+![alt text](https://github.com/wisnupr/text-visualization/row-data/img/text-visual.png)
